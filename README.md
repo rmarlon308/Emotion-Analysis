@@ -23,4 +23,6 @@ This project uses Natural Language Processing (NLP) to examine the emotions conv
 The results and the emotions associated with the various books are presented below. It is evident that positive emotions predominate in all the books, followed by negative emotions.
 
 ![](Images/img2.png)
+
+The emotions associated with Moby Dick are shown here.
 ![](Images/img1.png)
